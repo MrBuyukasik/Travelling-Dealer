@@ -13,5 +13,10 @@ dealer problem. (Check out project skeleton)
 Store each shortest path in your own Node. Then, by implemenng the “sumOfNodes” method you could
 solve the problem. At the end clean all nodes by implemenng “deleteNode” method.
 
+## Demonstration 
+
+Short video demonstration: https://drive.google.com/file/d/1UMmsy7pZ3BIpA9q2a3-NpdE-8dB9cR01/view?usp=sharing
+
+
 ### In Project Screenshot
 ![travellingDealer](https://user-images.githubusercontent.com/15179002/119170278-b6701d80-ba6b-11eb-8c55-91bcf9495a72.png)
